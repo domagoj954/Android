@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="save">Save</string>
+    <string name="tasks">Your Tasks</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="enter_priority">Enter Priority</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="update_task">Update Task</string>
+    <string name="subtitle"> Your daily TO-DOs</string>
+
+</resources>

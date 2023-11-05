@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="enter_details">Unesite zadatak</string>
+    <string name="save">Spremi</string>
+    <string name="tasks">Vaši zadaci</string>
+    <string name="enter_priority">Unesite prioritet</string>
+    <string name="enter_task">Unesite zadatak</string>
+    <string name="update">Ažuriraj</string>
+    <string name="delete">Izbriši</string>
+    <string name="subtitle">Vaši dnevni zadaci</string>
+    <string name="update_task">Ažuriraj zadatak</string>
+</resources>
